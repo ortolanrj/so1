@@ -3,7 +3,9 @@
 ## Resumo última aula
 
 [Slides UFPE Concorrencia](https://www.cin.ufpe.br/~jcbf/if677/2015-1/slides/Aula_06_Concorrencia.pdf)
+
 [Java Semaphores](https://baptiste-wicht.com/posts/2010/08/java-concurrency-part-4-semaphores.html)
+
 [Java Monitors](https://dzone.com/articles/java-concurrency-%E2%80%93-part-5)
 
 ## Semáforo - Operação Atômica
